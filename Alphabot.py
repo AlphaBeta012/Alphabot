@@ -20,4 +20,4 @@ async def meme(ctx):
         path = "/storage/emulated/0/image_meme/" + imgString
         await ctx.send(file=discord.File(path))
                                                         
-client.run('ODczMzQwNTAwNDM2OTc5NzQz.YQ2_uQ.eI4pitFZ4mUiEMoJI1mYUYwITY4')
+client.run('ODczMzQwNTAwNDM2OTc5NzQz.YQ2_uQ.kZda4utc_y94ukEd8g3ZuwMYopA')
